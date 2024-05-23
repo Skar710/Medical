@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>Stethoscopes.jpg</ImageUrl>
+		<NavigateUrl>https://www.1mg.com/</NavigateUrl>
+		<Keyword>Stethoscope</Keyword>
+		<Impressions>5</Impressions>
+		<AlternateText>Error</AlternateText>
+	</Ad>
+	<Ad>
+		<ImageUrl>Syringe.jpg</ImageUrl>
+		<NavigateUrl>https://www.1mg.com/</NavigateUrl>
+		<Keyword>Syringe</Keyword>
+		<Impressions>5</Impressions>
+		<AlternateText>Error</AlternateText>
+	</Ad>
+	<Ad>
+		<ImageUrl>Tablets.jpg</ImageUrl>
+		<NavigateUrl>https://www.1mg.com/</NavigateUrl>
+		<Keyword>Tablets</Keyword>
+		<Impressions>5</Impressions>
+		<AlternateText>Error</AlternateText>
+	</Ad>
+	<Ad>
+		<ImageUrl>Thermometer.jpg</ImageUrl>
+		<NavigateUrl>https://www.1mg.com/</NavigateUrl>
+		<Keyword>Thermometer</Keyword>
+		<Impressions>5</Impressions>
+		<AlternateText>Error</AlternateText>
+	</Ad>
+	<Ad>
+		<ImageUrl>Sanitizer.jpg</ImageUrl>
+		<NavigateUrl>https://www.1mg.com/</NavigateUrl>
+		<Keyword>Sanitizer</Keyword>
+		<Impressions>5</Impressions>
+		<AlternateText>Error</AlternateText>
+	</Ad>
+	<Ad>
+		<ImageUrl>Bandage.jpg</ImageUrl>
+		<NavigateUrl>https://www.1mg.com/</NavigateUrl>
+		<Keyword>Bandage</Keyword>
+		<Impressions>5</Impressions>
+		<AlternateText>Error</AlternateText>
+	</Ad>
+</Advertisements>
+
